@@ -14,11 +14,12 @@ MARKDOWN
 4. Markdown here! Escribe emails de impacto.
 5. Markdown en tus editores: Sublime Text y Vim.
 6. Multimarkdown cumple con todo.
+7. MDwiki CMS/wiki en el cliente
 
 
 ### ¿Qué es Markdown? Una breve introducción
 
-Markdown es un lenguaje de marcado originalmente creado por John Gruber y contribuciones de Aaron Swartz que permite escribir texto fácil de leer y escribir siguiendo una sintaxis muy simple, para convertirlo en un documento HTML o XHTML estructurado. 
+Markdown es un lenguaje de marcado originalmente creado por John Gruber y contribuciones de Aaron Swartz que permite escribir texto fácil de leer y escribir siguiendo una sintaxis muy simple, para convertirlo en un documento HTML o XHTML estructurado.
 
 ¿Entonces, qué es realmente?
 
@@ -36,6 +37,8 @@ Sitios como Github, reddit y Stack Overflow usan markdown.
 ### Dingus y otras apliaciones web
 
 * [Dingus](http://daringfireball.net/projects/markdown/dingus)
+* [Dillinger](http://dillinger.io/)
+
 
   [pl]: /http://daringfireball.net/projects/markdown/license
 
@@ -50,10 +53,10 @@ Github usa lo que ellos llaman GFM (Github Flavoured Markdown). Es una versión 
 
 - Newlines: puedes escribir párrafos de dos lineas.
 - Multiple underscores: puedes_escribir_todo_junto_si_quieres
-- Syntax highlighting: coloreado para la sintaxis de muchos lenguajes de programación. 
-- Mentions: puedes mencionar a un usuario utilizando el carácter @ 
+- Syntax highlighting: coloreado para la sintaxis de muchos lenguajes de programación.
+- Mentions: puedes mencionar a un usuario utilizando el carácter @
 - Issue Autocompletion: puedes referenciar a la url para un issue, así #70
-- Tasks lists: puedes crear listas de tareas con [ ] [x] 
+- Tasks lists: puedes crear listas de tareas con [ ] [x]
 - Emoji autocomplete: emoticonos.
 - Code: Incluir código en un bloque con número de lineas y sintaxis coloreada.
 
@@ -75,7 +78,7 @@ Además @adam-p tiene una excelente [guia](https://github.com/adam-p/markdown-he
 
 1. [Marked Bonus Pack](http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles) from [Marked](http://markedapp.com/)(aplicación para MAC):
 
-* Usa tus estilos personales: 
+* Usa tus estilos personales:
 > Guarda tus archivos CSS en la ruta dónde tengas instalada la aplicación:
 > `~/Library/Application Support/Marked/Custom CSS`
 >
@@ -126,6 +129,8 @@ Estas son algunas de las funcionalidades:
 * Metadata (ejemplo: título, autor, fecha, etc.)
 
 
+### [MDwiki](http://dynalon.github.io/mdwiki/#!index.md)
 
+MDwiki is a CMS/Wiki completely built in HTML5/Javacript and runs 100% on the client.
 [Guía de la sintaxis](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide)
 
